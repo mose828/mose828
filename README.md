@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @mose828
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-mose828/mose828 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+git clone https://github.com/thelinuxchoice/choicebot
+cd choicebot
+chmod +x choicebot.sh
+nano hashtags.txt (put your hashtags here)
+./choicebot.sh
+Installmeant required
+apt-get install curl
